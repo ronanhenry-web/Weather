@@ -1,6 +1,6 @@
 <h1 align="left">Projet Android / Objectif savoir exploiter une API, réaliser une IHM, faire fonctionner LiveData, structurer le projet avec des ViewModel et gérer la gestion des erreurs</h1>
 
-<h3 align="left">Installation : cloner le projet puis lancer Android Studio et Run application </h3>
+<h3 align="left">Installation : cloner le projet puis lancer Android Studio et Run l'application </h3>
 
 <h3 align="left">Langages et outils :</h3>
 <p align="left"> 
