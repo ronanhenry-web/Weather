@@ -1,4 +1,4 @@
-# Projet Android
+# Projet Weather
 
 Objectif savoir exploiter une API, réaliser une IHM, faire fonctionner LiveData, structurer le projet avec des ViewModel et gérer la gestion des erreurs
 
